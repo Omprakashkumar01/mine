@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preety Kumari</h1>
+<h1 align="center">Hi 👋, I'm Om Prakash Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="aws" width="400" src=""C:\Users\HP\Downloads\rrr.gif""
@@ -9,13 +9,11 @@
 
 - 💬 Ask me about **AWS Services, AI, ML, HTML, CSS, JAVASCRIPT, DOCKER**
 
-- 📫 How to reach me **preetyprincess2212@gmail.com**
+- 📫 How to reach me **omjsr29@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/preety kumari ☁️" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preety kumari ☁️" height="30" width="40" /></a>
-<a href="https://instagram.com/cloud.learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cloud.learner" height="30" width="40" /></a>
-<a href="https://www.behance.net/preety kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="preety kumari" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/om-prakash-kumar-557b18228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preety kumari ☁️" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
